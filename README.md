@@ -1,4 +1,4 @@
-# 🧠 CS2 Dumps
+# 🧠 CS2 Dumps | LAST UPDATE : 07/01/2026
 
 > Complete and regularly updated dumps for **Counter-Strike 2**  
 > Everything you need for analysis, research, and development 🛠️
@@ -25,6 +25,6 @@ This repository contains **recent CS2 dumps**, including:
 
 - Dumps are **updated frequently**  
 - Updated after each significant CS2 patch  
-- Old dumps may be replaced or archived  
+- Old dumps may be deleted. 
 
 > Make sure to **pull regularly** to stay up-to-date.
