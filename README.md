@@ -28,3 +28,6 @@ This repository contains **recent CS2 dumps**, including:
 - Old dumps may be deleted. 
 
 > Make sure to **pull regularly** to stay up-to-date.
+
+# CR ❇️
+**Thanks to a2x for his dumper ! this repertory is created to be updated directly with the last update ! because Alls Repertorys ar outdated !**
