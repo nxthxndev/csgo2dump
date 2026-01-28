@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-25 19:20:15.275818200 UTC
+// 2026-01-28 17:51:50.951774800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
@@ -11271,7 +11271,7 @@ namespace CS2Dumper.Schemas {
         public static class CPointPulse {
         }
         // Parent: CBaseCSGrenadeProjectile
-        // Field count: 4
+        // Field count: 3
         //
         // Metadata:
         // NetworkVarNames: m_bIsIncGrenade (bool)
@@ -11279,7 +11279,6 @@ namespace CS2Dumper.Schemas {
             public const nint m_bIsIncGrenade = 0xBB0; // bool
             public const nint m_bDetonated = 0xBC8; // bool
             public const nint m_stillTimer = 0xBD0; // IntervalTimer
-            public const nint m_bHasBouncedOffPlayer = 0xCB0; // bool
         }
         // Parent: CBaseFilter
         // Field count: 1
