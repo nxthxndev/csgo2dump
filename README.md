@@ -1,4 +1,4 @@
-# 🧠 CS2 Dumps | LAST UPDATE : 28/01/2026
+# 🧠 CS2 Dumps | LAST UPDATE : 30/01/2026
 
 > Complete and regularly updated dumps for **Counter-Strike 2**  
 
